@@ -1,0 +1,5 @@
+numpy
+opencv-utils
+opencv-python
+shapely
+pandas

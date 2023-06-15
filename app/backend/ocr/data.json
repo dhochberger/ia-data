@@ -1,0 +1,138 @@
+{
+  "Drama": {
+    "has_text_on_top": 2969,
+    "is_containing_five_line_in_bottom": 277,
+    "is_title_movie_lowest_part": 1802,
+    "count": 3948
+  },
+  "Action": {
+    "has_text_on_top": 1030,
+    "is_containing_five_line_in_bottom": 87,
+    "is_title_movie_lowest_part": 739,
+    "count": 1483
+  },
+  "Romance": {
+    "has_text_on_top": 1129,
+    "is_containing_five_line_in_bottom": 94,
+    "is_title_movie_lowest_part": 673,
+    "count": 1512
+  },
+  "Comedy": {
+    "is_title_movie_lowest_part": 1247,
+    "has_text_on_top": 2554,
+    "is_containing_five_line_in_bottom": 208,
+    "count": 3109
+  },
+  "Mystery": {
+    "has_text_on_top": 342,
+    "is_title_movie_lowest_part": 254,
+    "is_containing_five_line_in_bottom": 39,
+    "count": 519
+  },
+  "Thriller": {
+    "has_text_on_top": 700,
+    "is_title_movie_lowest_part": 520,
+    "is_containing_five_line_in_bottom": 67,
+    "count": 983
+  },
+  "Horror": {
+    "is_title_movie_lowest_part": 250,
+    "has_text_on_top": 394,
+    "is_containing_five_line_in_bottom": 37,
+    "count": 567
+  },
+  "Sci-Fi": {
+    "is_title_movie_lowest_part": 216,
+    "has_text_on_top": 301,
+    "is_containing_five_line_in_bottom": 43,
+    "count": 392
+  },
+  "Fantasy": {
+    "has_text_on_top": 363,
+    "is_title_movie_lowest_part": 250,
+    "is_containing_five_line_in_bottom": 29,
+    "count": 470
+  },
+  "War": {
+    "is_containing_five_line_in_bottom": 8,
+    "has_text_on_top": 119,
+    "is_title_movie_lowest_part": 70,
+    "count": 124
+  },
+  "Adventure": {
+    "has_text_on_top": 691,
+    "is_title_movie_lowest_part": 433,
+    "is_containing_five_line_in_bottom": 65,
+    "count": 1011
+  },
+  "Musical": {
+    "has_text_on_top": 79,
+    "is_title_movie_lowest_part": 55,
+    "is_containing_five_line_in_bottom": 9,
+    "count": 91
+  },
+  "Crime": {
+    "has_text_on_top": 987,
+    "is_containing_five_line_in_bottom": 85,
+    "is_title_movie_lowest_part": 591,
+    "count": 1280
+  },
+  "Biography": {
+    "is_title_movie_lowest_part": 220,
+    "is_containing_five_line_in_bottom": 38,
+    "has_text_on_top": 351,
+    "count": 396
+  },
+  "Music": {
+    "is_title_movie_lowest_part": 126,
+    "is_containing_five_line_in_bottom": 23,
+    "has_text_on_top": 244,
+    "count": 258
+  },
+  "Sport": {
+    "is_title_movie_lowest_part": 107,
+    "has_text_on_top": 178,
+    "is_containing_five_line_in_bottom": 16,
+    "count": 208
+  },
+  "Family": {
+    "has_text_on_top": 381,
+    "is_title_movie_lowest_part": 188,
+    "is_containing_five_line_in_bottom": 23,
+    "count": 452
+  },
+  "History": {
+    "has_text_on_top": 178,
+    "is_title_movie_lowest_part": 115,
+    "is_containing_five_line_in_bottom": 18,
+    "count": 186
+  },
+  "Documentary": {
+    "is_title_movie_lowest_part": 291,
+    "has_text_on_top": 536,
+    "is_containing_five_line_in_bottom": 96,
+    "count": 601
+  },
+  "Animation": {
+    "has_text_on_top": 207,
+    "is_containing_five_line_in_bottom": 14,
+    "is_title_movie_lowest_part": 95,
+    "count": 256
+  },
+  "Western": {
+    "has_text_on_top": 39,
+    "is_title_movie_lowest_part": 26,
+    "is_containing_five_line_in_bottom": 4,
+    "count": 46
+  },
+  "Reality-TV": {
+    "has_text_on_top": 2,
+    "count": 2
+  },
+  "News": {
+    "has_text_on_top": 17,
+    "is_title_movie_lowest_part": 9,
+    "is_containing_five_line_in_bottom": 5,
+    "count": 20
+  }
+}

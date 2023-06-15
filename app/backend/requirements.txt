@@ -1,0 +1,17 @@
+flask
+flask-cors
+wheel
+dask
+statsmodels
+seaborn
+sklearn
+pickle-mixin
+flask-mongoengine
+python-dotenv
+numpy
+opencv-utils
+opencv-python
+pandas
+keras
+tensorflow
+matplotlib

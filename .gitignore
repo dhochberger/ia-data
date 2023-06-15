@@ -1,0 +1,10 @@
+# MacBook files
+.DS_Store
+
+# Python environment files
+./bootstrap/face_detection/face_detection_env
+
+files/
+node_modules
+.idea/
+__pycache__

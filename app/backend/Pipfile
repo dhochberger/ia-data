@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+pandas = "*"
+flask-cors = "*"
+dask = "*"
+statsmodels = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
+pickle-mixin = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
